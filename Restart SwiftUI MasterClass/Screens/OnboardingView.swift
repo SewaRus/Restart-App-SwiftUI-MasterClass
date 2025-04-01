@@ -95,6 +95,7 @@ how much love we put into giving.
                         .frame(height: 80, alignment: .center)
                         .onTapGesture {
                             isOnboardingViewActive = false
+                           
                         }
                         
                         Spacer()
