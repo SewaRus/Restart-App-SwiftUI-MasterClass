@@ -175,6 +175,7 @@ how much love we put into giving.
         .onAppear {
             isAnimating = true
         }
+        .preferredColorScheme(.dark)
     }
 }
 
