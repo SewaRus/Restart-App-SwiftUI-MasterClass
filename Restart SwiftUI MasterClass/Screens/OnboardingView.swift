@@ -55,6 +55,7 @@ how much love we put into giving.
                         .opacity(isAnimating ? 1 : 0)
                         .animation(.easeOut(duration: 0.5), value: isAnimating)
                         .offset(x: imageOffset.width * 1.2 , y: 0)
+                        .rotationEffect(.degrees(Double(imageOffset.width / 20)))
                         .gesture(
                             DragGesture()
                                 .onChanged { gesture in
