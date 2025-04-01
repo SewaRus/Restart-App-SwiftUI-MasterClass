@@ -10,22 +10,9 @@
 		A491BF512D9BD28A0028FE54 /* Restart SwiftUI MasterClass.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Restart SwiftUI MasterClass.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		A491BF6B2D9BD5E50028FE54 /* Exceptions for "Restart SwiftUI MasterClass" folder in "Restart SwiftUI MasterClass" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				"Restart-SwiftUI-MasterClass-Info.plist",
-			);
-			target = A491BF502D9BD28A0028FE54 /* Restart SwiftUI MasterClass */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		A491BF532D9BD28A0028FE54 /* Restart SwiftUI MasterClass */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				A491BF6B2D9BD5E50028FE54 /* Exceptions for "Restart SwiftUI MasterClass" folder in "Restart SwiftUI MasterClass" target */,
-			);
 			path = "Restart SwiftUI MasterClass";
 			sourceTree = "<group>";
 		};
