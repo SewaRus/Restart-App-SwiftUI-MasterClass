@@ -10,9 +10,22 @@
 		A491BF512D9BD28A0028FE54 /* Restart SwiftUI MasterClass.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Restart SwiftUI MasterClass.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		A491BF6B2D9BD5E50028FE54 /* Exceptions for "Restart SwiftUI MasterClass" folder in "Restart SwiftUI MasterClass" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"Restart-SwiftUI-MasterClass-Info.plist",
+			);
+			target = A491BF502D9BD28A0028FE54 /* Restart SwiftUI MasterClass */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		A491BF532D9BD28A0028FE54 /* Restart SwiftUI MasterClass */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				A491BF6B2D9BD5E50028FE54 /* Exceptions for "Restart SwiftUI MasterClass" folder in "Restart SwiftUI MasterClass" target */,
+			);
 			path = "Restart SwiftUI MasterClass";
 			sourceTree = "<group>";
 		};
@@ -255,11 +268,12 @@
 				DEVELOPMENT_TEAM = 9PQRGV2T7U;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Restart-SwiftUI-MasterClass-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Restart;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -284,11 +298,12 @@
 				DEVELOPMENT_TEAM = 9PQRGV2T7U;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Restart-SwiftUI-MasterClass-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Restart;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
