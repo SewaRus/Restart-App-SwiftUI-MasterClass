@@ -40,7 +40,7 @@ how much love we put into giving.
                 // MARK: - Center
                 
                 ZStack {
-                    
+                    CircleGroupView(ShapeColor: .white, ShapeOpacity: 0.2)
                     Image("character-1")
                         .resizable()
                         .scaledToFit()
