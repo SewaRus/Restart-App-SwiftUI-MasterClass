@@ -1,9 +1,8 @@
-```markdown
 # 🚀 Restart App - SwiftUI MasterClass
 
 Welcome to the Restart App, a SwiftUI onboarding application designed to provide a smooth and engaging user experience. This project showcases my journey into the world of SwiftUI and demonstrates the power of component-based design, interactive gestures, and custom animations.
 
-![Restart App Screenshot](https://example.com/image.png)
+![Restart App Screenshot](Documents/Readme.gif)
 
 ## Table of Contents
 1. [Introduction](#introduction)
